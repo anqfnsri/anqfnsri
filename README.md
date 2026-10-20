@@ -13,9 +13,6 @@ Selamat datang ke profil GitHub saya! Saya baru sahaja bermula dalam dunia penga
 - **Alat:** Git, GitHub, VS Code
 
 ## 📊 Statistik GitHub
-*(Opsyen: Paparan kad statistik automatik)*
-![Aniq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=radial)
-
 ---
 ⭐️ *Terima kasih kerana melawat profil saya!*
 <!--
